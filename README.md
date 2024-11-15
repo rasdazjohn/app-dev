@@ -17,5 +17,5 @@ A child with the ability to "shine," sensing the danger that lurks within the ho
 # Iconic Scene
 *"Here's Johnny!"
 One of the most memorable lines in horror cinema, delivered by Jack Nicholson.*
-[The Shining (1980)] (https://www.imdb.com/title/tt0081505/)
-![The Shining (1980)] (https://www.google.com/imgres?q=the%20shining&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0081505%2F&docid=6jFOU6F8i9SPyM&tbnid=tLroJ93HJmSmPM&vet=12ahUKEwjhsoj_2t2JAxX-lFYBHQJIBQ8QM3oECGIQAA..i&w=1000&h=1520&hcb=2&ved=2ahUKEwjhsoj_2t2JAxX-lFYBHQJIBQ8QM3oECGIQAA.jpg)
+[The Shining (1980)](https://www.imdb.com/title/tt0081505/)
+![The Shining (1980)](https://www.google.com/imgres?q=the%20shining&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg&imgrefurl=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0081505%2F&docid=6jFOU6F8i9SPyM&tbnid=tLroJ93HJmSmPM&vet=12ahUKEwjhsoj_2t2JAxX-lFYBHQJIBQ8QM3oECGIQAA..i&w=1000&h=1520&hcb=2&ved=2ahUKEwjhsoj_2t2JAxX-lFYBHQJIBQ8QM3oECGIQAA.jpg)
